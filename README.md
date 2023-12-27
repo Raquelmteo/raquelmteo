@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I have been working for four years with financial data analysis. I worked at the largest regional development bank in Latin America. And also participated at a University research group on Economic Psychology Applied to Consumer Behavior, and that's when my interest in learning new ways of analyzing different types of data began.
+I have been working for four years with financial data analysis. Worked at the largest regional development bank in Latin America. Participated at a University research group on Economic Psychology Applied to Consumer Behavior, and that's when my interest in learning new ways of analyzing different types of data began.
 
 * 🌍  I'm based in Porto, PT
 * ✉️  You can contact me at [raquelmteo@gmail.com](mailto:raquelmteo@gmail.com)
